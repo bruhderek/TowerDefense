@@ -1,24 +1,3 @@
-"""
-Derek Li C4
-3/21/22
-P7 computer fair
-"Bob the Builder"
-
-------------NEW ENHANCED SUBMISSION--------------
-
-Defend your base against Bob the Builder minions which try to break your base.
-The minions come every 100 seconds, and become stronger in every wave.
-
-Enhancement improvements:
- - Added towers that have health
- - Added base, cannons, gold digger
- - Updated instructions
- - Added Bob the Breaker minions which try to destroy your building
- - Upgrading and selling buildings
- - Displaying info about buildings
- - User can now click with the mouse
-"""
-
 import tkinter
 import copy
 import os
